@@ -1,587 +1,373 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: TopIsland 3.20.4\n"
-"PO-Revision-Date: 2025-09-15 08:59 UTC\n"
+"Project-Id-Version: MyNotes 3.20.4\n"
+"PO-Revision-Date: 2025-09-15 09:22 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: Demon.module:252
-msgid "\"Nuevo correo de "
+# gb-ignore
+#: FMain.form:357
+msgid "#"
 msgstr ""
 
-#: Demon.module:98
-msgid "% charged !"
+# gb-ignore
+#: FMain.form:241
+msgid "+"
 msgstr ""
 
-#: Reglages.form:608
-msgid "(0 = very close to 10 = very distant) See info icon for more information"
-msgstr ""
-
-#: Reglages.form:1364
-msgid "."
-msgstr ""
-
-#: Notif.form:35
-msgid "...message"
-msgstr ""
-
-#: Reglages.form:635
-msgid "\t0 dBm\t0-1 meter\tVery close, direct contact\n\t1 dBm\t1-2 meters\tImmediate proximity\n\t2 dBm\t2-3 meters\tVery close\n\t3 dBm\t3-4 meters\tClose\n\t4 dBm\t4-5 meters\tBeginning of dispersion\n\t5 dBm\t5-6 meters\tStable signal\n\t6 dBm\t6-7 meters\tBeginning of attenuation\n\t7 dBm\t7-8 meters\tModerate signal\n\t8 dBm\t8-9 meters\tAttenuated signal\n\t9 dBm\t9-10 meters\tWeak signal\n\t10 dBm\t10-11 meters\tConnection limit"
-msgstr ""
-
-#: frmAbout.form:64
+# gb-ignore
+#: frmAbout.form:63
 msgid "1.0.0"
 msgstr ""
 
-#: Reglages.form:1158
-msgid "2"
-msgstr ""
-
-#: Reglages.form:1172
-msgid "995"
-msgstr ""
-
-#: Minuteur1.form:70
-msgid ":"
-msgstr ""
-
-#: Island.form:58
+#: FMain.form:123
 msgid "About"
+msgstr "A propos"
+
+#: FMain.form:236 Widget2.form:94
+msgid "Add note"
 msgstr ""
 
-#: Reglages.form:285
-msgid "Above"
-msgstr ""
+#: FMain.form:367
+msgid "Add your tags separated by a comma ( , )"
+msgstr "Ajoutez vos balises séparées par une virgule ( , )"
 
-#: MailVerif.form:29
-msgid "Abrir Correo"
-msgstr ""
-
-#: Reglages.form:726
-msgid "Access log"
-msgstr ""
-
-#: Reglages.form:742
-msgid "Add to white list"
-msgstr ""
-
-#: Reglages.class:1256
-msgid "Add to white liste"
-msgstr ""
-
-#: MailVerif.class:64
-msgid "An error occurred. Please verify your connection details or your internet access."
-msgstr ""
-
-#: MailVerif.class:136
-msgid "An unexpected error has occurred. Please verify your connection details and your internet access."
-msgstr ""
-
-#: Reglages.form:1129
-msgid "Auto close notification"
-msgstr ""
-
-#: Reglages.form:601
-msgid "Auto lock and unlock (dBm)"
-msgstr ""
-
-#: Floating.form:96 Reglages.form:947
-msgid "Baidu"
-msgstr ""
-
-#: Reglages.form:427
-msgid "Battery"
-msgstr ""
-
-#: BatteryNotifNew.form:65 NotifAlert.form:58
-msgid "Battery information"
-msgstr ""
-
-#: Reglages.form:460
-msgid "Battery sound"
-msgstr ""
-
-#: Reglages.form:285
-msgid "Below"
-msgstr ""
-
-#: Reglages.form:340
-msgid "Big hour widget on your desktop"
-msgstr ""
-
-#: Floating.form:111 Reglages.form:947
-msgid "Bing"
-msgstr ""
-
-#: Reglages.form:272
-msgid "Black"
+# gb-ignore
+#: FMain.form:111
+msgid "Base de Datos"
 msgstr ""
 
 #: FollowMe.form:80
 msgid "BlueSky"
 msgstr ""
 
-#: Reglages.form:596
-msgid "Bluetooth device"
+# gb-ignore
+#: frmBuscar.form:18
+msgid "Buscar"
 msgstr ""
 
-#: Reglages.form:319
-msgid "Calendar app"
+# gb-ignore
+#: frmBuscar.form:17
+msgid "Buscar en la base de datos"
 msgstr ""
 
-#: Reglages.form:397
-msgid "Candy"
+#: AskPWD.form:58 FMain.form:521 Protect.form:57 UnProtect.form:56 frmBuscar.form:71
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Reglages.form:110
+msgid "Clean database"
+msgstr "Nettoyer la base de donnée"
+
+#: FMain.form:607
+msgid "Click and move the utility bar"
+msgstr "Cliquez et déplacez la barre d'outils."
+
+#: FMain.form:376
+msgid "Click to restore the position of the utility bar"
+msgstr "Cliquez pour restaurer la position de la barre d'outils"
+
+#: Widget2.form:102
+msgid "Close My Notes"
+msgstr "Fermer My Notes"
+
+# gb-ignore
+#: frmBuscar.form:57
+msgid "Content"
 msgstr ""
 
-#: Reglages.form:351
-msgid "Change color"
+# gb-ignore
+#: FMain.form:262
+msgid "Contenu"
 msgstr ""
 
-#: Reglages.form:1073
-msgid "Check"
+#: FMain.form:138
+msgid "Copy"
 msgstr ""
 
-#: Reglages.form:1084
-msgid "Check every"
+#: FMain.class:70
+msgid "Create a new note or select a note"
+msgstr "Créez une nouvelle note ou sélectionnez en une"
+
+#: FMain.class:597
+msgid "Create a new note or select one"
+msgstr "Créez une nouvelle note ou sélectionnez en une"
+
+#: FMain.class:127
+msgid "Created on : "
 msgstr ""
 
-#: Reglages.form:1028
-msgid "Check Mail"
+#: FMain.form:484
+msgid "Created on :"
 msgstr ""
 
-#: Demon.module:265
-msgid "Check Mail: An unexpected error has occurred."
+#: FMain.form:133
+msgid "Cut"
 msgstr ""
 
-#: Reglages.form:397
-msgid "Childhood"
+#: FMain.class:336 Reglages.class:36
+msgid "Database cleaning"
+msgstr "Nettoyage de la base de données"
+
+# gb-ignore
+#: FMain.form:250 frmBuscar.form:36
+msgid "Date"
 msgstr ""
 
-#: Reglages.form:335
-msgid "Choose a.desktop file !"
-msgstr ""
-
-#: ColorBigHour.form:77
-msgid "Choose Date color"
-msgstr ""
-
-#: ColorBigHour.form:67
-msgid "Choose Hour color"
-msgstr ""
-
-#: ColorBigHour.form:72
-msgid "Choose Minute color"
-msgstr ""
-
-#: Reglages.form:958
-msgid "Choose your color"
-msgstr ""
-
-#: Minuteur1.form:147
-msgid "Choose your timer alarm in the settings"
-msgstr ""
-
-#: Reglages.form:754
-msgid "Clear log"
-msgstr ""
-
-#: SecurityWhite.form:64
-msgid "Close"
-msgstr ""
-
-#: MailVerif.form:23
-msgid "Comprobar ahora"
-msgstr ""
-
-#: Reglages.class:1176
-msgid "Connection to the server successful."
-msgstr ""
-
-#: Reglages.form:831
-msgid "Custom shortcuts"
-msgstr ""
-
-#: Reglages.form:256
-msgid "Delay to go back to initial position"
-msgstr ""
-
-#: SecurityWhite.form:58
+#: FMain.form:647
 msgid "Delete"
 msgstr ""
 
-#: frmAbout.form:71
+#: FMain.class:265
+msgid "Delete note"
+msgstr "Supprimer la note"
+
+# gb-ignore
+#: frmAbout.form:70
 msgid "Description"
 msgstr ""
 
-#: Reglages.form:713
-msgid "Detect if the microphone is in use"
+#: mExportar.module:24
+msgid "Done !"
+msgstr "Effectué !"
+
+#: FMain.form:639
+msgid "Edit"
 msgstr ""
 
-#: Reglages.form:708
-msgid "Detect if the webcam is in use"
+#: AskPWD.form:53 UnProtect.form:51
+msgid "Enter"
 msgstr ""
 
-#: Reglages.class:112
-msgid "Device name : "
+#: mExportar.module:95
+msgid "Error !"
+msgstr "Erreur 1"
+
+#: FMain.form:156
+msgid "Export as"
 msgstr ""
 
-#: Floating.form:91 Reglages.form:947
-msgid "DuckDuckGo"
-msgstr ""
+#: mExportar.module:7
+msgid "Export file as..."
+msgstr "Exporter le fichier sous..."
 
-#: Reglages.form:397
-msgid "Dynamic"
-msgstr ""
+#: FMain.form:129
+msgid "Export note"
+msgstr "Exporter la note"
 
-#: Reglages.form:499
-msgid "Enables new sounds when the charger is plugged in or unplugged."
-msgstr ""
-
-#: Reglages.form:487
-msgid "Extend battery life"
-msgstr ""
-
-#: Reglages.form:397
-msgid "Fairyland"
-msgstr ""
-
-#: Reglages.form:786
-msgid "Floating Bar"
-msgstr ""
-
-#: FollowMe.form:42
+#: FollowMe.form:42 frmAbout.form:120
 msgid "Follow me"
 msgstr ""
 
-#: FollowMe.form:106 frmAbout.form:120
+#: FollowMe.form:106 frmAbout.form:129
 msgid "Follow Me"
 msgstr ""
 
-#: Reglages.form:512
-msgid "For best performance, consider disabling the sounds for “Insert” “Remove” and “Low Battery.”\nClick on the small settings button to go to Deepin Control Center in the Sound Effects section. "
+#: FMain.class:842
+msgid " found"
+msgstr " trouvé"
+
+# gb-ignore
+#: FMain.form:175
+msgid "HTML"
 msgstr ""
 
-#: MailVerif.class:115
-msgid "From : "
-msgstr ""
-
-#: Floating.class:60
-msgid "Full screenshot"
-msgstr ""
-
-#: Floating.class:61
-msgid "Full With delay"
-msgstr ""
-
-#: Reglages.form:224
-msgid "General"
-msgstr ""
-
-#: Reglages.form:272
-msgid "Glass"
-msgstr ""
-
-#: Floating.form:106 Reglages.form:947
-msgid "Google"
+#: FMain.class:1172
+msgid "https://apps.hashtagdigital.fr/MyNotes.html"
 msgstr ""
 
 #: FollowMe.form:127
 msgid "https://zengdev.com"
 msgstr ""
 
-#: Reglages.form:1274
-msgid "Immutable mode"
+#: Reglages.form:118
+msgid "Keep your database clean and in optimal condition."
+msgstr "Maintenez votre base de données propre et en parfait état."
+
+#: Reglages.form:75
+msgid "  Launch on startup"
 msgstr ""
 
-#: Reglages.form:1157
-msgid "Intervalo entre comprobaciones"
-msgstr ""
-
-#: Demon.module:99
-msgid "It is recommended to unplug the charger."
-msgstr ""
-
-#: Floating.class:409
-msgid "Launch app"
-msgstr ""
-
-#: Demon.module:131
-msgid "Low battery !"
-msgstr ""
-
-#: Minuteur1.form:77
-msgid "M"
-msgstr ""
-
-#: Reglages.form:998
-msgid "Mail"
-msgstr ""
-
-#: Reglages.form:1068
-msgid "Mail app"
-msgstr ""
-
-#: NotifMailNew.form:88
-msgid "Mail from"
-msgstr ""
-
-#: MailVerif.class:45
-msgid "Mail information"
-msgstr ""
-
-#: NotifMailNew.form:59
-msgid "Mail start"
+# gb-ignore
+#: FMain.form:170
+msgid "Markdown (*.md)"
 msgstr ""
 
 #: FollowMe.form:89
 msgid "Mastodon"
 msgstr ""
 
-#: Floating.form:87 Island.form:41
+# gb-ignore
+#: Widget2.form:30
 msgid "Menu1"
 msgstr ""
 
-#: Reglages.form:1091
-msgid "minutes"
+#: FMain.class:128
+msgid "Modified on : "
 msgstr ""
 
-#: MailVerif.class:114 NotifMailNew.form:73
-msgid "New mail"
+#: FMain.form:494
+msgid "Modified on :"
 msgstr ""
 
-#: Reglages.form:465
-msgid "Notification if battery is at 25%"
+# gb-ignore
+#: .project:1 AskPWD.form:89 Donate.form:41 frmAbout.form:49
+msgid "My Notes"
 msgstr ""
 
-#: Reglages.form:476
-msgid "Notification if battery is at 80%"
+#: FMain.class:385
+msgid "My Notes - Export"
 msgstr ""
 
-#: Reglages.form:1208
-msgid "Notification sound"
+#: FMain.class:419
+msgid "My Notes - Information"
 msgstr ""
 
-#: MailVerif.class:116
-msgid "Object : "
+# gb-ignore
+#: Widget2.form:18
+msgid "My Notes - Widget"
 msgstr ""
 
-#: Floating.class:65
-msgid "OCR"
+#: Reglages.form:67
+msgid "  My Notes is hidden at startup"
+msgstr "  My Notes est masqué au démarrage"
+
+#: frmAbout.form:77
+msgid "My Notes offering note-taking features for organizing and managing your ideas. Specially developed for Deepin 25."
 msgstr ""
 
-#: Demon.module:132
-msgid "Only 25% remaining. Plug in the charger."
+#: .project:2
+msgid "My Notes offering note-taking features for organizing and managing your ideas effectively"
 msgstr ""
 
-#: NotifMailNew.form:64
-msgid "Open your mailbox"
+#: FMain.form:102 Widget2.form:34
+msgid "New note"
+msgstr "Nouvelle note"
+
+#: FMain.class:833
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+# gb-ignore
+#: FMain.form:94
+msgid "Opciones"
 msgstr ""
 
-#: Reglages.form:1053
-msgid "Password"
+#: FMain.form:98 Widget2.form:39
+msgid "Open My Notes"
+msgstr "Ouvrir My Notes"
+
+#: Protect.class:34
+msgid "Passwords do not match !"
 msgstr ""
 
-#: Minuteur1.class:121
-msgid "Please select minute / second"
+#: FMain.form:143
+msgid "Paste"
 msgstr ""
 
-#: Reglages.form:1058
-msgid "Port"
+#: AskPWD.form:48 UnProtect.form:46
+msgid "Please enter your password"
 msgstr ""
 
-#: MailVerif.form:35
-msgid "Preferencias"
+#: Reglages.form:124
+msgid "Protect access with a password"
 msgstr ""
 
-#: Island.form:63
+# gb-ignore
+#: Reglages.form:51
+msgid "Quick access"
+msgstr ""
+
+#: Reglages.form:59
+msgid "Quicly add a note or access them from your screen."
+msgstr "Ajoutez rapidement une note ou accédez-y depuis votre écran."
+
+#: FMain.form:106
 msgid "Quit"
-msgstr ""
+msgstr "Quitter"
 
-#: Floating.form:116 Reglages.form:947
-msgid "Qwant"
-msgstr ""
+#: FMain.form:384
+msgid "Refresh note list"
+msgstr "Actualiser la liste des notes"
 
-#: Reglages.form:986
-msgid "Reset"
-msgstr ""
-
-#: Reglages.form:1251
-msgid "Rock-Solid Immutable System"
-msgstr ""
-
-#: Reglages.form:1225
-msgid "RSIS"
-msgstr ""
-
-#: Minuteur1.form:84
-msgid "S"
-msgstr ""
-
-#: MailVerif.form:41
-msgid "Salir"
-msgstr ""
-
-#: Reglages.form:936
+#: FMain.form:623 Protect.form:52
 msgid "Save"
 msgstr ""
 
-#: Floating.class:64
-msgid "Screen scroll"
+#: frmBuscar.form:77
+msgid "Search"
+msgstr "Rechercher"
+
+#: FMain.form:148
+msgid "Select all"
 msgstr ""
 
-#: Floating.class:63
-msgid "Screen video record"
+#: Protect.form:47
+msgid "Set your password"
 msgstr ""
 
-#: Reglages.form:941
-msgid "Search engine"
-msgstr ""
-
-#: Reglages.form:660
-msgid "Security"
-msgstr ""
-
-#: SecurityWhite.form:70
-msgid "Security white list"
-msgstr ""
-
-#: Reglages.form:737
-msgid "See file with file manager"
-msgstr ""
-
-#: Reglages.class:1268
-msgid "See white liste"
-msgstr ""
-
-#: Floating.class:62
-msgid "Select window"
-msgstr ""
-
-#: Reglages.form:1043
-msgid "Server"
-msgstr ""
-
-#: Reglages.form:530
-msgid "Session"
-msgstr ""
-
-#: Reglages.form:643
-msgid "Session auto Lock & Unlock"
-msgstr ""
-
-#: Island.form:53
-msgid "Settings"
-msgstr ""
-
-#: Reglages.form:1376
-msgid "Show status icon on Top Island when RSIS is disabled "
-msgstr ""
-
-#: Reglages.form:575
-msgid "Signal strength"
-msgstr ""
-
-#: Reglages.form:285
-msgid "Smart"
-msgstr ""
-
-#: Floating.form:101 Reglages.form:947
-msgid "Sogou"
-msgstr ""
-
-#: Reglages.form:1078
-msgid "SSL / TLS"
-msgstr ""
-
-#: Reglages.form:251
-msgid "Stacking"
-msgstr ""
-
-#: frmAbout.form:98
+#: FMain.form:418 frmAbout.form:97
 msgid "Support Me ;)"
-msgstr ""
+msgstr "Soutenez-moi ;)"
 
 #: Donate.form:48
 msgid "Support me to offer free programs for Deepin Linux"
+msgstr "Soutenez-moi pour offrir des programmes gratuits pour Deepin Linux"
+
+# gb-ignore
+#: FMain.form:269 frmBuscar.form:62
+msgid "Tags"
 msgstr ""
 
 #: FollowMe.form:116
 msgid "Telegram"
 msgstr ""
 
-#: Reglages.form:266
-msgid "Theme"
+# gb-ignore
+#: FMain.form:160
+msgid "Texte (*.txt)"
 msgstr ""
 
-#: Reglages.class:1502
-msgid "The stability and security of your system is not optimal !"
+#: Protect.class:25
+msgid "The password has been successfully saved."
 msgstr ""
 
-#: Minuteur1.class:76
-msgid "The timer is finished."
+#: FMain.form:256 frmBuscar.form:42
+msgid "Title"
+msgstr "Titre"
+
+# gb-ignore
+#: FMain.form:115
+msgid "Vacuum"
 msgstr ""
 
-#: BatteryNotifNew.form:43 ColorBigHour.form:48 Island.form:45 Minuteur1.form:53 NotifAlert.form:43 NotifMailNew.form:44 Reglages.form:363
-msgid "Timer"
-msgstr ""
-
-#: Minuteur1.form:149 Reglages.form:402
-msgid "Timer alarm"
-msgstr ""
-
-#: Minuteur1.class:23
-msgid "Timer alarm : "
-msgstr ""
-
-#: .project:1 Donate.form:41 frmAbout.form:50
-msgid "Top Island"
-msgstr ""
-
-#: frmAbout.form:78
-msgid "Top Island Specially developed for Deepin 25."
-msgstr ""
-
-#: .project:2
-msgid "Top Island Specially developed for Deepin 25.\nSeveral practical utilities for your Deepin system:\n- Timer\n- Mail notification\n- Security\n- Rock-Solid immutable system\n- Floating Bar\nAnd other utilities"
-msgstr ""
-
-#: Reglages.form:974
-msgid "Transparency"
-msgstr ""
-
-#: Reglages.form:261
-msgid "Transparency of Top Island"
-msgstr ""
-
-#: Reglages.class:1183
-msgid "Unable to connect to the server. Please check your details."
-msgstr ""
-
-#: Reglages.form:1048
-msgid "User"
-msgstr ""
-
-#: frmAbout.form:57
+# gb-ignore
+#: frmAbout.form:56
 msgid "Version"
 msgstr ""
 
-#: Floating.class:404
-msgid "With delay"
+# gb-ignore
+#: FMain.form:165
+msgid "Word (*.docx)"
 msgstr ""
 
-#: Reglages.form:1267
-msgid "Writable status"
+#: FMain.class:206
+msgid "Write your note here..."
+msgstr "Écrivez votre note ici..."
+
+#: AskPWD.class:25 UnProtect.class:27
+msgid "Wrong password !"
 msgstr ""
 
 #: FollowMe.form:71
 msgid "X"
 msgstr ""
 
-#: Reglages.class:1497
-msgid "Your system stability and security is optimal."
-msgstr ""
+#: FMain.class:203
+msgid "Your title here..."
+msgstr "Votre titre ici..."
 

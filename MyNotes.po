@@ -2,31 +2,32 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MyNotes 3.20.4\n"
-"PO-Revision-Date: 2025-09-15 09:22 UTC\n"
+"PO-Revision-Date: 2025-09-17 13:55 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# gb-ignore
 #: FMain.form:357
 msgid "#"
 msgstr ""
 
-# gb-ignore
+#: frmAbout.form:141
+msgid "(Changelog)"
+msgstr ""
+
 #: FMain.form:241
 msgid "+"
 msgstr ""
 
-# gb-ignore
-#: frmAbout.form:63
+#: frmAbout.form:64
 msgid "1.0.0"
 msgstr ""
 
 #: FMain.form:123
 msgid "About"
-msgstr "A propos"
+msgstr ""
 
 #: FMain.form:236 Widget2.form:94
 msgid "Add note"
@@ -34,7 +35,7 @@ msgstr ""
 
 #: FMain.form:367
 msgid "Add your tags separated by a comma ( , )"
-msgstr "Ajoutez vos balises séparées par une virgule ( , )"
+msgstr ""
 
 # gb-ignore
 #: FMain.form:111
@@ -45,42 +46,30 @@ msgstr ""
 msgid "BlueSky"
 msgstr ""
 
-# gb-ignore
-#: frmBuscar.form:18
-msgid "Buscar"
-msgstr ""
-
-# gb-ignore
-#: frmBuscar.form:17
-msgid "Buscar en la base de datos"
-msgstr ""
-
-#: AskPWD.form:58 FMain.form:521 Protect.form:57 UnProtect.form:56 frmBuscar.form:71
+#: AskPWD.form:58 FMain.form:521 Protect.form:57 UnProtect.form:56 frmBuscar.form:69
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #: Reglages.form:110
 msgid "Clean database"
-msgstr "Nettoyer la base de donnée"
+msgstr ""
 
 #: FMain.form:607
 msgid "Click and move the utility bar"
-msgstr "Cliquez et déplacez la barre d'outils."
+msgstr ""
 
 #: FMain.form:376
 msgid "Click to restore the position of the utility bar"
-msgstr "Cliquez pour restaurer la position de la barre d'outils"
+msgstr ""
 
 #: Widget2.form:102
 msgid "Close My Notes"
-msgstr "Fermer My Notes"
+msgstr ""
 
-# gb-ignore
-#: frmBuscar.form:57
+#: frmBuscar.form:55
 msgid "Content"
 msgstr ""
 
-# gb-ignore
 #: FMain.form:262
 msgid "Contenu"
 msgstr ""
@@ -91,13 +80,13 @@ msgstr ""
 
 #: FMain.class:70
 msgid "Create a new note or select a note"
-msgstr "Créez une nouvelle note ou sélectionnez en une"
+msgstr ""
 
-#: FMain.class:597
+#: FMain.class:594
 msgid "Create a new note or select one"
-msgstr "Créez une nouvelle note ou sélectionnez en une"
+msgstr ""
 
-#: FMain.class:127
+#: FMain.class:124
 msgid "Created on : "
 msgstr ""
 
@@ -109,12 +98,11 @@ msgstr ""
 msgid "Cut"
 msgstr ""
 
-#: FMain.class:336 Reglages.class:36
+#: FMain.class:333 Reglages.class:36
 msgid "Database cleaning"
-msgstr "Nettoyage de la base de données"
+msgstr ""
 
-# gb-ignore
-#: FMain.form:250 frmBuscar.form:36
+#: FMain.form:250 frmBuscar.form:34
 msgid "Date"
 msgstr ""
 
@@ -122,18 +110,17 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: FMain.class:265
+#: FMain.class:262
 msgid "Delete note"
-msgstr "Supprimer la note"
+msgstr ""
 
-# gb-ignore
-#: frmAbout.form:70
+#: frmAbout.form:71
 msgid "Description"
 msgstr ""
 
 #: mExportar.module:24
 msgid "Done !"
-msgstr "Effectué !"
+msgstr ""
 
 #: FMain.form:639
 msgid "Edit"
@@ -145,7 +132,7 @@ msgstr ""
 
 #: mExportar.module:95
 msgid "Error !"
-msgstr "Erreur 1"
+msgstr ""
 
 #: FMain.form:156
 msgid "Export as"
@@ -153,30 +140,29 @@ msgstr ""
 
 #: mExportar.module:7
 msgid "Export file as..."
-msgstr "Exporter le fichier sous..."
+msgstr ""
 
 #: FMain.form:129
 msgid "Export note"
-msgstr "Exporter la note"
+msgstr ""
 
-#: FollowMe.form:42 frmAbout.form:120
+#: FollowMe.form:42 frmAbout.form:121
 msgid "Follow me"
 msgstr ""
 
-#: FollowMe.form:106 frmAbout.form:129
+#: FollowMe.form:106 frmAbout.form:130
 msgid "Follow Me"
 msgstr ""
 
-#: FMain.class:842
+#: FMain.class:839
 msgid " found"
-msgstr " trouvé"
+msgstr ""
 
-# gb-ignore
 #: FMain.form:175
 msgid "HTML"
 msgstr ""
 
-#: FMain.class:1172
+#: FMain.class:1169
 msgid "https://apps.hashtagdigital.fr/MyNotes.html"
 msgstr ""
 
@@ -186,13 +172,12 @@ msgstr ""
 
 #: Reglages.form:118
 msgid "Keep your database clean and in optimal condition."
-msgstr "Maintenez votre base de données propre et en parfait état."
+msgstr ""
 
 #: Reglages.form:75
 msgid "  Launch on startup"
 msgstr ""
 
-# gb-ignore
 #: FMain.form:170
 msgid "Markdown (*.md)"
 msgstr ""
@@ -201,12 +186,11 @@ msgstr ""
 msgid "Mastodon"
 msgstr ""
 
-# gb-ignore
 #: Widget2.form:30
 msgid "Menu1"
 msgstr ""
 
-#: FMain.class:128
+#: FMain.class:125
 msgid "Modified on : "
 msgstr ""
 
@@ -214,29 +198,27 @@ msgstr ""
 msgid "Modified on :"
 msgstr ""
 
-# gb-ignore
-#: .project:1 AskPWD.form:89 Donate.form:41 frmAbout.form:49
+#: .project:1 AskPWD.form:89 Donate.form:41 frmAbout.form:50
 msgid "My Notes"
 msgstr ""
 
-#: FMain.class:385
+#: FMain.class:382
 msgid "My Notes - Export"
 msgstr ""
 
-#: FMain.class:419
+#: FMain.class:416
 msgid "My Notes - Information"
 msgstr ""
 
-# gb-ignore
 #: Widget2.form:18
 msgid "My Notes - Widget"
 msgstr ""
 
 #: Reglages.form:67
 msgid "  My Notes is hidden at startup"
-msgstr "  My Notes est masqué au démarrage"
+msgstr ""
 
-#: frmAbout.form:77
+#: frmAbout.form:78
 msgid "My Notes offering note-taking features for organizing and managing your ideas. Specially developed for Deepin 25."
 msgstr ""
 
@@ -246,20 +228,19 @@ msgstr ""
 
 #: FMain.form:102 Widget2.form:34
 msgid "New note"
-msgstr "Nouvelle note"
+msgstr ""
 
-#: FMain.class:833
+#: FMain.class:830
 msgid "No results found"
-msgstr "Aucun résultat trouvé"
+msgstr ""
 
-# gb-ignore
 #: FMain.form:94
 msgid "Opciones"
 msgstr ""
 
 #: FMain.form:98 Widget2.form:39
 msgid "Open My Notes"
-msgstr "Ouvrir My Notes"
+msgstr ""
 
 #: Protect.class:34
 msgid "Passwords do not match !"
@@ -277,30 +258,29 @@ msgstr ""
 msgid "Protect access with a password"
 msgstr ""
 
-# gb-ignore
 #: Reglages.form:51
 msgid "Quick access"
 msgstr ""
 
 #: Reglages.form:59
 msgid "Quicly add a note or access them from your screen."
-msgstr "Ajoutez rapidement une note ou accédez-y depuis votre écran."
+msgstr ""
 
 #: FMain.form:106
 msgid "Quit"
-msgstr "Quitter"
+msgstr ""
 
 #: FMain.form:384
 msgid "Refresh note list"
-msgstr "Actualiser la liste des notes"
+msgstr ""
 
 #: FMain.form:623 Protect.form:52
 msgid "Save"
 msgstr ""
 
-#: frmBuscar.form:77
+#: frmBuscar.form:75
 msgid "Search"
-msgstr "Rechercher"
+msgstr ""
 
 #: FMain.form:148
 msgid "Select all"
@@ -310,16 +290,15 @@ msgstr ""
 msgid "Set your password"
 msgstr ""
 
-#: FMain.form:418 frmAbout.form:97
+#: FMain.form:418 frmAbout.form:98
 msgid "Support Me ;)"
-msgstr "Soutenez-moi ;)"
+msgstr ""
 
 #: Donate.form:48
 msgid "Support me to offer free programs for Deepin Linux"
-msgstr "Soutenez-moi pour offrir des programmes gratuits pour Deepin Linux"
+msgstr ""
 
-# gb-ignore
-#: FMain.form:269 frmBuscar.form:62
+#: FMain.form:269 frmBuscar.form:60
 msgid "Tags"
 msgstr ""
 
@@ -327,7 +306,6 @@ msgstr ""
 msgid "Telegram"
 msgstr ""
 
-# gb-ignore
 #: FMain.form:160
 msgid "Texte (*.txt)"
 msgstr ""
@@ -336,28 +314,25 @@ msgstr ""
 msgid "The password has been successfully saved."
 msgstr ""
 
-#: FMain.form:256 frmBuscar.form:42
+#: FMain.form:256 frmBuscar.form:40
 msgid "Title"
-msgstr "Titre"
+msgstr ""
 
-# gb-ignore
 #: FMain.form:115
 msgid "Vacuum"
 msgstr ""
 
-# gb-ignore
-#: frmAbout.form:56
+#: frmAbout.form:57
 msgid "Version"
 msgstr ""
 
-# gb-ignore
 #: FMain.form:165
 msgid "Word (*.docx)"
 msgstr ""
 
-#: FMain.class:206
+#: FMain.class:203
 msgid "Write your note here..."
-msgstr "Écrivez votre note ici..."
+msgstr ""
 
 #: AskPWD.class:25 UnProtect.class:27
 msgid "Wrong password !"
@@ -367,7 +342,7 @@ msgstr ""
 msgid "X"
 msgstr ""
 
-#: FMain.class:203
+#: FMain.class:200
 msgid "Your title here..."
-msgstr "Votre titre ici..."
+msgstr ""
 

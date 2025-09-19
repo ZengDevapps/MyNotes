@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MyNotes 3.20.4\n"
-"PO-Revision-Date: 2025-09-19 09:45 UTC\n"
+"PO-Revision-Date: 2025-09-19 09:46 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"

@@ -1,6 +1,16 @@
-Language files for My Notes for Deepin Linux.
+My Notes for Deepin Linux.
+
+You will find the file to translate it into another language. I use https://gitlocalize.com/users/ZengDevapps to translate it.
+
+You will also find the source code for the program in zip format, which is updated regularly.
 
 Website : https://zengdev.com
+
+Forum : https://zengdev.com/forum
+
+Translate : https://gitlocalize.com/users/ZengDevapps
+
+Changelog : https://zengdev.com/changelog-my-notes
 
 Twitter :
 https://x.com/Zeng_dev

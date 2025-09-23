@@ -1,0 +1,371 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MyNotes 3.20.4\n"
+"PO-Revision-Date: 2025-09-23 08:15 UTC\n"
+"Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: FMain.form:357
+msgid "#"
+msgstr "#"
+
+#: frmAbout.form:141
+msgid "(Changelog)"
+msgstr "（变更日志）"
+
+#: FMain.form:241
+msgid "+"
+msgstr "+"
+
+#: frmAbout.form:64
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: FMain.class:386
+msgid "<b>Pandoc</b> must be installed to perform this action."
+msgstr "必须安装 <b>Pandoc</b> 才能执行此操作。"
+
+#: FMain.form:123
+msgid "About"
+msgstr "关于"
+
+#: FMain.form:236 Widget2.form:94
+msgid "Add note"
+msgstr "添加注释"
+
+#: FMain.form:367
+msgid "Add your tags separated by a comma ( , )"
+msgstr "添加标签，用逗号 ( , ) 分隔"
+
+#: FMain.form:111
+msgid "Base de Datos"
+msgstr "数据基础"
+
+#: FollowMe.form:80
+msgid "BlueSky"
+msgstr "蓝天"
+
+#: AskPWD.form:58 FMain.form:521 Protect.form:57 UnProtect.form:56
+msgid "Cancel"
+msgstr "取消"
+
+#: Reglages.form:110
+msgid "Clean database"
+msgstr "清理数据库"
+
+#: FMain.form:607
+msgid "Click and move the utility bar"
+msgstr "单击并移动实用程序栏"
+
+#: FMain.form:376
+msgid "Click to restore the toolbar position"
+msgstr "单击可恢复工具栏位置"
+
+#: Widget2.form:102
+msgid "Close My Notes"
+msgstr "关闭我的笔记"
+
+#: FMain.form:262
+msgid "Contenu"
+msgstr "内容"
+
+#: FMain.form:138
+msgid "Copy"
+msgstr "复制"
+
+#: FMain.class:71
+msgid "Create a new note or select a note"
+msgstr "创建新笔记或选择笔记"
+
+#: FMain.class:597
+msgid "Create a new note or select one"
+msgstr "创建新笔记或选择一个笔记"
+
+#: FMain.form:484
+msgid "Created on :"
+msgstr "创建日期："
+
+#: FMain.class:125
+msgid "Created on : "
+msgstr "创建日期："
+
+#: FMain.form:133
+msgid "Cut"
+msgstr "切"
+
+#: FMain.class:336 Reglages.class:36
+msgid "Database cleaning"
+msgstr "数据库清理"
+
+#: FMain.form:250
+msgid "Date"
+msgstr "日期"
+
+#: FMain.form:647
+msgid "Delete"
+msgstr "删除"
+
+#: FMain.class:263
+msgid "Delete note"
+msgstr "删除笔记"
+
+#: frmAbout.form:71
+msgid "Description"
+msgstr "描述"
+
+#: mExportar.module:23
+msgid "Done !"
+msgstr "完毕 ！"
+
+#: FMain.form:631
+msgid "Edit"
+msgstr "编辑"
+
+#: AskPWD.form:53 UnProtect.form:51
+msgid "Enter"
+msgstr "进入"
+
+#: mExportar.module:89
+msgid "Error !"
+msgstr "错误 ！"
+
+#: FMain.form:156
+msgid "Export as"
+msgstr "导出为"
+
+#: mExportar.module:7
+msgid "Export file as..."
+msgstr "将文件导出为..."
+
+#: FMain.form:129
+msgid "Export note"
+msgstr "导出注释"
+
+#: FollowMe.form:42 frmAbout.form:121
+msgid "Follow me"
+msgstr "跟我来"
+
+#: FollowMe.form:106 frmAbout.form:130
+msgid "Follow Me"
+msgstr "跟我来"
+
+#: FMain.class:836
+msgid " found"
+msgstr " 成立"
+
+#: FMain.form:175
+msgid "HTML"
+msgstr "HTML"
+
+#: FMain.class:1159
+msgid "https://apps.hashtagdigital.fr/MyNotes.html"
+msgstr "https://apps.hashtagdigital.fr/MyNotes.html"
+
+#: FollowMe.form:127
+msgid "https://zengdev.com"
+msgstr "https://zengdev.com"
+
+#: Reglages.form:118
+msgid "Keep your database clean and in optimal condition."
+msgstr "保持数据库清洁并处于最佳状态。"
+
+#: Reglages.form:75
+msgid "  Launch on startup"
+msgstr "启动时启动"
+
+#: FMain.form:170
+msgid "Markdown (*.md)"
+msgstr "Markdown（*.md）"
+
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr "乳齿象"
+
+#: Widget2.form:30
+msgid "Menu1"
+msgstr "菜单1"
+
+#: FMain.form:494
+msgid "Modified on :"
+msgstr "修改日期："
+
+#: FMain.class:126
+msgid "Modified on : "
+msgstr "修改日期："
+
+#: .project:1 AskPWD.form:89 Donate.form:41 frmAbout.form:50
+msgid "My Notes"
+msgstr "我的笔记"
+
+#: FMain.class:385
+msgid "My Notes - Export"
+msgstr "我的笔记 - 导出"
+
+#: FMain.class:419
+msgid "My Notes - Information"
+msgstr "我的笔记 - 信息"
+
+#: FMain.class:779
+msgid "My Notes - Search"
+msgstr "我的笔记 - 搜索"
+
+#: Widget2.form:18
+msgid "My Notes - Widget"
+msgstr "我的笔记 - 小工具"
+
+#: Reglages.form:67
+msgid "  My Notes is hidden at startup"
+msgstr "启动时隐藏“我的笔记”"
+
+#: frmAbout.form:78
+msgid "My Notes offering note-taking features for organizing and managing your ideas. Specially developed for Deepin 25."
+msgstr "我的笔记提供笔记功能，方便您整理和管理想法。专为 Deepin 25 开发。"
+
+#: .project:2
+msgid "My Notes offering note-taking features for organizing and managing your ideas effectively"
+msgstr "我的笔记提供笔记功能，可有效组织和管理您的想法"
+
+#: FMain.form:102 Widget2.form:34
+msgid "New note"
+msgstr "新笔记"
+
+#: FMain.class:827
+msgid "No results found"
+msgstr "未找到结果"
+
+#: FMain.form:94
+msgid "Opciones"
+msgstr "选择"
+
+#: FMain.form:98 Widget2.form:39
+msgid "Open My Notes"
+msgstr "打开“我的笔记”"
+
+#: Protect.class:34
+msgid "Passwords do not match !"
+msgstr "密码不匹配！"
+
+#: FMain.form:143
+msgid "Paste"
+msgstr "粘贴"
+
+#: AskPWD.form:48 UnProtect.form:46
+msgid "Please enter your password"
+msgstr "请输入您的密码"
+
+#: Reglages.form:124
+msgid "Protect access with a password"
+msgstr "使用密码保护访问"
+
+#: Reglages.form:51
+msgid "Quick access"
+msgstr "快速访问"
+
+#: Reglages.form:59
+msgid "Quicly add a note or access them from your screen."
+msgstr "快速添加注释或从屏幕访问它们。"
+
+#: FMain.form:106
+msgid "Quit"
+msgstr "辞职"
+
+#: FMain.form:384
+msgid "Refresh note list"
+msgstr "刷新笔记列表"
+
+#: FMain.form:615 Protect.form:52
+msgid "Save"
+msgstr "节省"
+
+#: FMain.form:148
+msgid "Select all"
+msgstr "选择全部"
+
+#: Protect.form:47
+msgid "Set your password"
+msgstr "设置密码"
+
+#: FMain.form:418 frmAbout.form:98
+msgid "Support Me ;)"
+msgstr "支持我；）"
+
+#: Donate.form:48
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr "支持我为 Deepin Linux 提供免费程序"
+
+#: FMain.form:269
+msgid "Tags"
+msgstr "标签"
+
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr "电报"
+
+#: FMain.form:160
+msgid "Texte (*.txt)"
+msgstr "文本（*.txt）"
+
+#: Reglages.class:41
+msgid "The database has been cleaned up."
+msgstr "数据库已被清理。"
+
+#: Protect.class:25
+msgid "The password has been successfully saved."
+msgstr "密码已成功保存。"
+
+#: FMain.form:256
+msgid "Title"
+msgstr "标题"
+
+#: FMain.form:115
+msgid "Vacuum"
+msgstr "真空"
+
+#: frmAbout.form:57
+msgid "Version"
+msgstr "版本"
+
+#: FMain.form:165
+msgid "Word (*.docx)"
+msgstr "Word（*.docx）"
+
+#: FMain.class:204
+msgid "Write your note here..."
+msgstr "在这里写下您的笔记..."
+
+#: AskPWD.class:25 UnProtect.class:29
+msgid "Wrong password !"
+msgstr "密码错误！"
+
+#: FollowMe.form:71
+msgid "X"
+msgstr "十"
+
+#: FMain.class:780
+msgid "You must enter a field to search for."
+msgstr "您必须输入要搜索的字段。"
+
+#: FMain.class:356
+msgid "You must first select an entry."
+msgstr "您必须先选择一个条目。"
+
+#: FMain.class:414
+msgid "You must first select an entry.."
+msgstr "您必须先选择一个条目.."
+
+#: FMain.class:420
+msgid "You must have the <b>pandoc</b> program installed to perform this action.."
+msgstr "您必须安装 <b>pandoc</b> 程序才能执行此操作。"
+
+#: FMain.class:148
+msgid "You must select an entry first."
+msgstr "您必须先选择一个条目。"
+
+#: FMain.class:201
+msgid "Your title here..."
+msgstr "您的标题在这里..."
+

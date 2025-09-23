@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MyNotes 3.20.4\n"
-"PO-Revision-Date: 2025-09-19 09:46 UTC\n"
+"PO-Revision-Date: 2025-09-23 08:15 UTC\n"
 "Last-Translator: Zeng <Zeng (zengdeepin.drizzly120@slmail.me)>\n"
-"Language: en_GB\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "1.0.0"
 msgstr ""
 
-#: FMain.class:384
+#: FMain.class:386
 msgid "<b>Pandoc</b> must be installed to perform this action."
 msgstr ""
 
@@ -81,23 +81,23 @@ msgstr ""
 msgid "Create a new note or select a note"
 msgstr ""
 
-#: FMain.class:595
+#: FMain.class:597
 msgid "Create a new note or select one"
-msgstr ""
-
-#: FMain.class:125
-msgid "Created on : "
 msgstr ""
 
 #: FMain.form:484
 msgid "Created on :"
 msgstr ""
 
+#: FMain.class:125
+msgid "Created on : "
+msgstr ""
+
 #: FMain.form:133
 msgid "Cut"
 msgstr ""
 
-#: FMain.class:334 Reglages.class:36
+#: FMain.class:336 Reglages.class:36
 msgid "Database cleaning"
 msgstr ""
 
@@ -105,7 +105,7 @@ msgstr ""
 msgid "Date"
 msgstr ""
 
-#: FMain.form:639
+#: FMain.form:647
 msgid "Delete"
 msgstr ""
 
@@ -153,7 +153,7 @@ msgstr ""
 msgid "Follow Me"
 msgstr ""
 
-#: FMain.class:834
+#: FMain.class:836
 msgid " found"
 msgstr ""
 
@@ -161,7 +161,7 @@ msgstr ""
 msgid "HTML"
 msgstr ""
 
-#: FMain.class:1157
+#: FMain.class:1159
 msgid "https://apps.hashtagdigital.fr/MyNotes.html"
 msgstr ""
 
@@ -189,27 +189,27 @@ msgstr ""
 msgid "Menu1"
 msgstr ""
 
-#: FMain.class:126
-msgid "Modified on : "
-msgstr ""
-
 #: FMain.form:494
 msgid "Modified on :"
+msgstr ""
+
+#: FMain.class:126
+msgid "Modified on : "
 msgstr ""
 
 #: .project:1 AskPWD.form:89 Donate.form:41 frmAbout.form:50
 msgid "My Notes"
 msgstr ""
 
-#: FMain.class:383
+#: FMain.class:385
 msgid "My Notes - Export"
 msgstr ""
 
-#: FMain.class:417
+#: FMain.class:419
 msgid "My Notes - Information"
 msgstr ""
 
-#: FMain.class:777
+#: FMain.class:779
 msgid "My Notes - Search"
 msgstr ""
 
@@ -233,7 +233,7 @@ msgstr ""
 msgid "New note"
 msgstr ""
 
-#: FMain.class:825
+#: FMain.class:827
 msgid "No results found"
 msgstr ""
 
@@ -337,7 +337,7 @@ msgstr ""
 msgid "Write your note here..."
 msgstr ""
 
-#: AskPWD.class:25 UnProtect.class:27
+#: AskPWD.class:25 UnProtect.class:29
 msgid "Wrong password !"
 msgstr ""
 
@@ -345,19 +345,19 @@ msgstr ""
 msgid "X"
 msgstr ""
 
-#: FMain.class:778
+#: FMain.class:780
 msgid "You must enter a field to search for."
 msgstr ""
 
-#: FMain.class:354
+#: FMain.class:356
 msgid "You must first select an entry."
 msgstr ""
 
-#: FMain.class:412
+#: FMain.class:414
 msgid "You must first select an entry.."
 msgstr ""
 
-#: FMain.class:418
+#: FMain.class:420
 msgid "You must have the <b>pandoc</b> program installed to perform this action.."
 msgstr ""
 

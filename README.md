@@ -21,6 +21,9 @@ Translate : [https://gitlocalize.com/users/ZengDevapps](https://gitlocalize.com/
 Changelog : [https://zengdev.com/changelog-my-notes](https://zengdev.com/changelog-my-notes)
 <br>
 <br>
+PS : Install my reposiroty first (zeng4deepin-repository.deb) to avoid dependency issues.
+<br>
+<br>
 
 Telegram :
 [https://t.me/zeng_dev4deepin](https://t.me/zeng_dev4deepin)
